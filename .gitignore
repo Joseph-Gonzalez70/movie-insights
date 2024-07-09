@@ -1,0 +1,14 @@
+*.log
+.cache
+venv/
+.venv
+var/
+env/
+*.csv
+*.json
+*.pkl
+*.xlsx
+.DS_store
+**/.venv/
+**test
+.env
